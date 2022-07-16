@@ -1,0 +1,11 @@
+Interface:
+
+=CONCAT("g",LEFT(F2,1),"/0/",RIGHT(F2,LEN(F2)-FIND("/",F2)))
+
+Description
+
+=CONCAT(G2,"  ",E2)
+
+
+
+
